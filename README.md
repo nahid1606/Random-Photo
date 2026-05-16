@@ -1,1 +1,1 @@
-# Random-Photo
+# Random-Photo-Generator
